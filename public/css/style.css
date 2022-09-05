@@ -1,0 +1,6 @@
+.titre{
+    display: flex;
+    justify-content: center;
+    color: blue;
+    font-size: 30px;
+}
